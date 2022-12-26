@@ -2,18 +2,21 @@
   "name": "@mjrdd/inter",
   "version": "1.0.1",
   "description": "CSS and web font files for self-hosting Inter fonts",
-  "main": "dist/inter.css",
   "keywords": [
     "Inter"
   ],
-  "author": "mjrdd",
-  "license": "SIL OPEN FONT LICENSE Version 1.1",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mjrdd/inter-font.git"
-  },
+  "homepage": "https://github.com/mjrdd/inter-font#readme",
   "bugs": {
     "url": "https://github.com/mjrdd/inter-font/issues"
   },
-  "homepage": "https://github.com/mjrdd/inter-font#readme"
+  "license": "OFL-1.1-no-RFN",
+  "author": "Mark Devilleres",
+  "files": [
+    "dist"
+  ],
+  "main": "dist/inter.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjrdd/inter-font.git"
+  }
 }
