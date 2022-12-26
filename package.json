@@ -1,20 +1,17 @@
 {
   "name": "@mjrdd/inter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CSS and web font files for self-hosting Inter fonts",
   "main": "dist/inter.css",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mjrdd/inter-font.git"
-  },
   "keywords": [
     "Inter"
   ],
   "author": "mjrdd",
-  "license": "ISC",
+  "license": "SIL OPEN FONT LICENSE Version 1.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjrdd/inter-font.git"
+  },
   "bugs": {
     "url": "https://github.com/mjrdd/inter-font/issues"
   },
